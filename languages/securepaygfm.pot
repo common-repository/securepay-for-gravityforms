@@ -1,0 +1,337 @@
+# Copyright (C) 2021 SecurePay Sdn Bhd
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: SecurePay for Gravityforms 1.0.12\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/securepay-for-gravityforms\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-28T02:39:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: securepaygfm\n"
+
+#. Plugin Name of the plugin
+msgid "SecurePay for Gravityforms"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://securepay.my/?utm_source=wp-plugins-gravityforms&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr ""
+
+#. Description of the plugin
+msgid "Accept payment by using SecurePay. A Secure Marketplace Platform for Malaysian."
+msgstr ""
+
+#. Author of the plugin
+msgid "SecurePay Sdn Bhd"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://securepay.my/?utm_source=wp-plugins-gravityforms&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:304
+#: includes/src/GFSecurePay.php:635
+msgid "Pay with SecurePay"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:514
+#: includes/src/GFSecurePay.php:523
+msgid "Test Mode"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:519
+msgid "Enable Test mode"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:523
+msgid "Enable this option to test without credentials."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:527
+msgid "Live Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:531
+msgid "Your SecurePay Live Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:531
+msgid "Enter the SecurePay Live Token."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:535
+msgid "Live Checksum Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:539
+msgid "Your SecurePay Live Checksum Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:539
+msgid "Enter the SecurePay Live Checksum Token."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:543
+msgid "Live UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:547
+msgid "Your SecurePay Live UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:547
+msgid "Enter the SecurePay Live UID."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:551
+msgid "Live Partner UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:555
+msgid "Your SecurePay Live Partner UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:555
+msgid "Enter the SecurePay Live Partner UID."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:559
+#: includes/src/GFSecurePay.php:568
+msgid "Sandbox Mode"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:564
+msgid "Enable Sandbox mode"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:568
+msgid "Enable Sandbox for testing purposes."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:572
+msgid "Sandbox Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:576
+msgid "Your SecurePay Sandbox Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:576
+msgid "Enter the SecurePay Sandbox Token."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:580
+msgid "Sandbox Checksum Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:584
+msgid "Your SecurePay Sandbox Checksum Token"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:584
+msgid "Enter the SecurePay Sandbox Checksum Token."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:588
+msgid "Sandbox UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:592
+msgid "Your SecurePay Sandbox UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:592
+msgid "Enter the SecurePay Sandbox UID."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:596
+msgid "Sandbox Partner UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:600
+msgid "Your SecurePay Sandbox Partner UID"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:600
+msgid "Enter the SecurePay Sandbox Partner UID."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:604
+#: includes/src/GFSecurePay.php:613
+msgid "Show Bank List"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:609
+msgid "SecurePay Supported Banks"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:613
+msgid "SecurePay Supported Banks."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:617
+#: includes/src/GFSecurePay.php:626
+msgid "Show Bank Logo"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:622
+msgid "Use supported banks logo"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:626
+msgid "SecurePay Supported Banks Logo."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:630
+#: includes/src/GFSecurePay.php:634
+msgid "Bank Selection Header"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:634
+msgid "This is the header for bank selection."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:638
+msgid "Bill Description"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:641
+msgid "SecurePay Bills Description"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:641
+msgid "Enter your description here. It will displayed on Bill page."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:656
+#: includes/src/GFSecurePay.php:660
+msgid "Return URL"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:660
+msgid "Return to this URL after payment complete. Leave blank for default."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:664
+#: includes/src/GFSecurePay.php:668
+msgid "Cancel URL"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:668
+msgid "Return to this URL if payment failed. Leave blank for default."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:675
+#: includes/src/GFSecurePay.php:677
+msgid "Notifications"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:677
+msgid "Enable this option if you would like to only send out this form's notifications for the 'Form is submitted' event after payment has been received. Leaving this option disabled will send these notifications immediately after the form is submitted. Notifications which are configured for other events will not be affected by this option."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:685
+#: includes/src/GFSecurePay.php:687
+msgid "Posts"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:687
+msgid "Enable this option if you would like to only create the post after payment has been received."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:690
+msgid "Create post only when payment is received."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:731
+msgid "Name"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:736
+msgid "Email"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:741
+msgid "Mobile Phone Number"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:746
+msgid "Reference #1 Label"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:751
+msgid "Reference #1"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:756
+msgid "Reference #2 Label"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:761
+msgid "Reference #2"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:766
+msgid "Reference #3 Label"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:771
+msgid "Reference #3"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:776
+msgid "Reference #4 Label"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:781
+msgid "Reference #4"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:786
+msgid "Reference #5 Label"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:791
+msgid "Reference #5"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:796
+msgid "Reference #6 Label"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:801
+msgid "Reference #6"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:823
+msgid "SecurePay Field"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:870
+msgid "Send notifications for the 'Form is submitted' event only when payment is received."
+msgstr ""
+
+#: includes/src/GFSecurePay.php:957
+msgid "Mark Post as Draft"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:961
+msgid "Delete Post"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:1300
+msgid "Payment Completed"
+msgstr ""
+
+#: includes/src/GFSecurePay.php:1301
+msgid "Payment Failed"
+msgstr ""
+
+#: includes/src/SecurePayGFM.php:74
+msgid "SecurePay for GravityForms require GravityForms plugin. Please install and activate."
+msgstr ""
